@@ -1,0 +1,2 @@
+# Bu projenin harici bağımlılığı yoktur; yalnızca Python standart kütüphanesi kullanılır.
+# Python 3.9 veya üzeri gerekir.
