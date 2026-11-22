@@ -29,7 +29,7 @@ Her kalıbın rolleri, gerekçesi ve hangi sınıfın hangi rolü üstlendiği: 
 ## Hızlı başlangıç
 
 ```bash
-git clone https://github.com/<kullanici-adi>/akilli-ev-otomasyonu.git
+git clone https://github.com/MehmetDrm0/akilli-ev-otomasyonu.git
 cd akilli-ev-otomasyonu
 python -m akilli_ev                                    # demo
 python -m unittest discover -s tests -t . -v           # testler
