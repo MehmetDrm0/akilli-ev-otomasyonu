@@ -18,7 +18,7 @@ python3 --version       # macOS / Linux
 Git ile:
 
 ```bash
-git clone https://github.com/<kullanici-adi>/akilli-ev-otomasyonu.git
+git clone https://github.com/MehmetDrm0/akilli-ev-otomasyonu.git
 cd akilli-ev-otomasyonu
 ```
 
